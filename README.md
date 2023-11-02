@@ -19,26 +19,26 @@ oss.
 
 | Verb        | Nuvarande bruk | Förslag       |
 |-------------|----------------|---------------|
-| pull        | pulla          | rycka         |
-| push        | pusha          | knuffa        |
+| pull        | pulla          | rycka         | dra, lok
+| push        | pusha          | knuffa        | körtillstånd
 | fetch       | fetcha         | hämta         |
 | branch      | brancha        | förgrena      |
-| commit      | commita        | förbinda      |
-| rebase      | rebasa         | ympa          |
-| merge       | merga          | sammanfoga    |
+| commit      | commita        | förbinda      | påstigning
+| rebase      | rebasa         | ympa          | rangera
+| merge       | merga          | sammanfoga    | koppling
 | squash      | squasha        | mosa          |
-| stash       | stasha         | gömma         |
-| tag         | tagga          | märka         |
+| stash       | stasha         | gömma         | urspårning
+| tag         | tagga          | märka         | tåg
 | cherry-pick | cherry-picka   | plocka russin |
-| amend       | amenda         | rätta till    |
-| blame       | blamea         | klandra       |
+| amend       | amenda         | rätta till    | rep
+| blame       | blamea         | klandra       | signalfel, lövhalka, trafikverket, lokfel, banarbete
 
 | Substantiv   | Nuvarande bruk | Förslag     |
 |--------------|----------------|-------------|
-| git          | git            | jävel       |
-| repository   | repo           | förvaring   |
-| branch       | branch         | gren        |
-| commit       | commit         | förbindelse |
+| git          | git            | jävel       | klarerare
+| repository   | repo           | förvaring   | bangård
+| branch       | branch         | gren        | spår
+| commit       | commit         | förbindelse | tågläge, koppla
 | pull request | pull request   | ryckbegäran |
 | stash        | stash          | gömma       |
 | tag          | tagg           | märke       |
